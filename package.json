@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AlbertoCloudDeveloper/btnSaludar.github.io/issues"
   },
-  "homepage": "https://github.com/AlbertoCloudDeveloper/btnSaludar.github.io#readme"
+  "homepage": "https://github.com/AlbertoCloudDeveloper/btnSaludar.github.io#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
