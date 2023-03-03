@@ -1,0 +1,20 @@
+{
+  "name": "dom_get_by",
+  "version": "1.0.0",
+  "description": "btn saludar",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertoCloudDeveloper/btnSaludar.github.io.git"
+  },
+  "author": "AlbertoDiaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlbertoCloudDeveloper/btnSaludar.github.io/issues"
+  },
+  "homepage": "https://github.com/AlbertoCloudDeveloper/btnSaludar.github.io#readme"
+}
